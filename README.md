@@ -5,5 +5,5 @@ This script changes a group of jpg files to a target size in Kb and to a target 
 ![](test_roy.mp4)
 
 <video width="1280" height="720" controls preload>
-  <source src="https://github.com/IvanDiazCostoya/change-img-size/blob/main/test_roy.mp4?raw=true" type="video/mp4">
+  <source src="https://github.com/IvanDiazCostoya/change-img-size/blob/main/test_roy.mp4?raw=true" type="video/mp4"></source> 
 </video>
